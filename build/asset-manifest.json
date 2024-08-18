@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tdd-comment-app/static/css/main.2f377dee.css",
+    "main.js": "/tdd-comment-app/static/js/main.f25c7386.js",
+    "static/js/453.33c1b33d.chunk.js": "/tdd-comment-app/static/js/453.33c1b33d.chunk.js",
+    "index.html": "/tdd-comment-app/index.html",
+    "main.2f377dee.css.map": "/tdd-comment-app/static/css/main.2f377dee.css.map",
+    "main.f25c7386.js.map": "/tdd-comment-app/static/js/main.f25c7386.js.map",
+    "453.33c1b33d.chunk.js.map": "/tdd-comment-app/static/js/453.33c1b33d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f377dee.css",
+    "static/js/main.f25c7386.js"
+  ]
+}
